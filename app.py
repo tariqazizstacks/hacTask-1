@@ -29,7 +29,7 @@ from __future__ import annotations
 
 import gradio as gr
 
-from src import analytics as analytics_mod
+import analytics as analytics_mod
 from src import config, ui_logic
 
 # ---------------------------------------------------------------------------
